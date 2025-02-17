@@ -1,1 +1,1 @@
-# kingshost
+# Web-Hosting-Template
